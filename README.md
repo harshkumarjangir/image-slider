@@ -3,6 +3,9 @@
 
 Created using HTML, CSS, and JavaScript. 
 
+##Live Demo
+https://imagesliderharsh.netlify.app/
+
 ## Image in project
 ![imageslider](https://github.com/harshkumarjangir/image-slider/assets/108256249/573f8c62-2381-4add-ae56-6ddb464205a9)
 
