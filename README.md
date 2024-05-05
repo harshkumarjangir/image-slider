@@ -3,7 +3,7 @@
 
 Created using HTML, CSS, and JavaScript. 
 
-##Live Demo
+## Live Demo
 https://imagesliderharsh.netlify.app/
 
 ## Image in project
