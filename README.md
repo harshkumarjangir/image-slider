@@ -4,7 +4,8 @@
 Created using HTML, CSS, and JavaScript. 
 
 ## Image in project
-![Uploading imageslider.png…]()
+![imageslider](https://github.com/harshkumarjangir/image-slider/assets/108256249/573f8c62-2381-4add-ae56-6ddb464205a9)
+
 
 ## Feedback
 
