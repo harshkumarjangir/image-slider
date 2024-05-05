@@ -4,7 +4,7 @@
 Created using HTML, CSS, and JavaScript. 
 
 ## Image in project
-
+![Uploading imageslider.png…]()
 
 ## Feedback
 
